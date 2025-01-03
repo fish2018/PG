@@ -6,6 +6,10 @@
 使用自己的本地包可以填写tgsearch服务器地址：  
 http://tg.fish2018.us.kg   
 http://tg.uu8.pro  (@DH 分享)  
+https://tg.banye.tech:7777  (@Banye 分享)  
+http://tg.lmentor.filegear-sg.me  (@Lmentor 分享)  
+http://tg.jklk.us.kg  (@Lmentor 分享)    
+
 
 在线获取TG session，扫码登录支持两步验证:  
 https://tg.uu8.pro/ (@DH 分享)  
