@@ -41,26 +41,27 @@ PG包[README.txt](http://tv.devopser.org/p/README.txt)
 1.优化观影播放列表。
 2.最强直播支持当天及前一天回看。前一天回看请切换直播源到“最强国内直播(-1天回看)”
 3.zouming.ipv6增加7天回看。
-4.增加CIPTV，支持7天回看。需要网盘设置-》其他设置》重新载入GO》点击allinone。该直播估计能看的时间不会很久，只为共襄盛举。
+4.增加CIPTV，支持7天回看。
+5.CIPTV修复几个鸟. 需要网盘设置-》其他设置》重新载入GO》点击allinone。该直播估计能看的时间不会很久，只为共襄盛举。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250112-1926.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250112-1926.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250112-1926.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1926.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250112-1959.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250112-1959.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250112-1959.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250112-1959.zip
 ```
 
 ## tgsearch包下载地址
