@@ -54,25 +54,26 @@ PG包[README.txt](http://www.fish2018.us.kg/p/README.txt)
 
 今日更新内容：(更多内容阅读zip内的README.txt)
 1.优化阿里线程设置，在不特意进行配置的情况下，白天和晚上都使用（助力数量+1）* 默认配置线程数（白天32，晚上10）。举例：4助力：白天(4+1)*32=160，夜间(4+1)*10=50，但最高不超过64，因此白天是64
+2.阿里夜间线程在没有tokenm配置的情况下默认也是19-23=10啦。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250304-1043.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250304-1043.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250304-1043.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-1043.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250304-2059.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250304-2059.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250304-2059.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250304-2059.zip
 ```
 
 ## tgsearch包下载地址
