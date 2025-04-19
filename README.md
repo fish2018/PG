@@ -35,7 +35,7 @@ http://tg3.fish2018.ip-ddns.com
 
 [TG本地搜索图文教程](https://github.com/fish2018/lib/blob/main/教程/关于TG本地搜索图文教程-PG.pdf)
 
-在线获取TG session：https://tg.uu8.pro/ (@DH 分享)  
+在线获取TG session：https://tgs.252035.xyz/
 
 需要免费代理节点，可以使用另一个项目[ClashForge](https://github.com/fish2018/ClashForge)  
 
